@@ -1,0 +1,988 @@
+CodigoNacional;NombreEstacion;Latitud;Altura;Año;Mes;Dia;T.Maxima;T.Minima
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;01;17.8;25.9
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;02;17.3;23.5
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;03;17.2;24.1
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;04;17.5;24.7
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;05;17.2;23.7
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;06;17.6;26.0
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;07;17.1;24.8
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;08;17.4;24.3
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;09;16.5;24.2
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;10;16.9;25.5
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;11;17.1;24.3
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;12;17.1;23.5
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;13;16.7;23.8
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;14;17.0;23.6
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;15;15.9;25.3
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;16;16.4;23.2
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;17;16.6;24.9
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;18;16.5;24.5
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;19;17.5;25.4
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;20;18.1;23.5
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;21;16.7;23.9
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;22;17.7;24.2
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;23;17.0;24.3
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;24;20.2;23.6
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;25;21.1;24.0
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;26;18.2;23.4
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;27;19.7;23.9
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;28;17.6;22.5
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;29;17.3;22.6
+180005;Chacalluta, Arica Ap.;18&deg 21' 5'' S;63;2017;04;30;19.3;22.6
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;01;17.5;24.3
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;02;16.6;22.4
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;03;18.3;24.3
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;04;17.2;22.8
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;05;16.5;24.1
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;06;15.6;23.0
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;07;17.4;22.1
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;08;15.4;22.6
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;09;15.2;21.5
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;10;16.5;24.0
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;11;16.6;24.2
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;12;16.4;24.1
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;13;15.5;22.4
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;14;17.0;21.7
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;15;16.6;22.0
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;16;14.2;22.2
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;17;18.2;22.8
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;18;18.6;23.2
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;19;19.7;23.4
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;20;16.5;22.4
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;21;15.8;22.4
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;22;18.3;23.1
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;23;16.4;22.6
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;24;17.8;22.2
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;25;19.0;22.4
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;26;16.5;20.6
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;27;18.3;21.8
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;28;15.0;20.7
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;29;16.8;20.2
+200006;Diego Aracena Iquique Ap.;20&deg 32' 23'' S;52;2017;04;30;15.4;20.4
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;01;7.8;22.7
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;02;5.6;23.3
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;03;4.7;24.9
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;04;5.5;23.7
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;05;4.4;24.3
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;06;3.5;24.3
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;07;3.0;23.8
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;08;3.0;22.0
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;09;2.0;22.8
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;10;1.9;22.7
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;11;3.4;22.8
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;12;3.8;24.2
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;13;2.4;24.8
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;14;4.6;24.7
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;15;7.7;26.5
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;16;5.5;26.8
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;17;2.8;24.2
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;18;3.6;20.5
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;19;7.2;18.2
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;20;2.9;20.6
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;21;3.6;22.6
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;22;3.2;23.1
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;23;3.5;24.3
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;24;3.2;23.3
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;25;4.0;21.4
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;26;4.4;23.4
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;27;2.2;22.4
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;28;1.6;24.6
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;29;6.1;24.8
+220002;El Loa, Calama Ad.;22&deg 29' 43'' S;2293;2017;04;30;5.1;24.1
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;01;14.9;22.2
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;02;15.6;20.3
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;03;15.4;21.1
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;04;15.3;21.5
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;05;15.7;20.5
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;06;14.9;20.6
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;07;14.9;20.9
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;08;14.5;20.6
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;09;14.6;18.8
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;10;13.4;20.0
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;11;13.2;19.5
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;12;14.3;20.9
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;13;13.6;20.2
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;14;14.7;20.0
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;15;14.9;20.0
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;16;14.5;20.6
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;17;14.8;22.6
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;18;18.3;21.4
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;19;14.5;20.8
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;20;15.8;20.7
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;21;15.9;20.3
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;22;14.3;20.9
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;23;14.3;19.6
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;24;15.4;18.9
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;25;16.0;18.2
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;26;13.1;17.7
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;27;13.7;18.8
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;28;11.9;17.5
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;29;14.8;17.8
+230001;Cerro Moreno  Antofagasta  Ap.;23&deg 27' 1'' S;113;2017;04;30;12.1;18.0
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;01;22.6;27.4
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;02;23.0;27.9
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;03;19.9;28.2
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;04;19.6;27.6
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;05;20.3;28.7
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;06;19.9;28.1
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;07;21.7;28.5
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;08;20.4;27.3
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;09;21.2;27.1
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;10;20.2;27.1
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;11;20.3;27.5
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;12;20.7;27.4
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;13;19.5;24.8
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;14;18.1;25.4
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;15;18.9;26.9
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;16;24.5;28.0
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;17;23.3;27.7
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;18;24.3;27.8
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;19;23.2;27.0
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;20;20.7;26.3
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;21;20.9;26.6
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;22;20.9;26.6
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;23;22.3;27.2
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;24;21.5;27.6
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;25;20.9;28.4
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;26;19.5;26.8
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;27;17.9;26.5
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;28;19.9;27.0
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;29;19.0;24.4
+270001;Mataveri  Isla de Pascua Ap.;27&deg 9' 38'' S;48;2017;04;30;19.3;24.2
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;01;13.3;22.5
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;02;12.3;23.8
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;03;13.2;21.9
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;04;16.0;22.2
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;05;11.7;22.6
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;06;13.7;21.1
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;07;16.4;23.6
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;08;13.0;20.8
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;09;10.1;22.7
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;10;9.0;22.5
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;11;9.1;23.7
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;12;11.4;21.6
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;13;12.8;23.8
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;14;11.5;22.5
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;15;13.0;22.2
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;16;12.6;19.5
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;17;15.3;22.0
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;18;13.1;22.7
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;19;11.9;23.0
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;20;12.2;25.8
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;21;11.3;21.4
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;22;15.6;22.3
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;23;15.1;18.8
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;24;10.9;20.4
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;25;11.9;21.8
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;26;8.8;20.1
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;27;12.5;20.8
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;28;10.5;19.3
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;29;10.4;18.2
+270008;Desierto de Atacama, Caldera  Ad.;27&deg 15' 50'' S;204;2017;04;30;12.4;19.6
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;01;12.5;20.6
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;02;11.3;21.7
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;03;12.3;20.4
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;04;13.1;21.1
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;05;11.6;21.0
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;06;11.6;18.9
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;07;13.3;21.1
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;08;11.0;22.0
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;09;9.6;19.3
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;10;9.8;19.7
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;11;10.0;18.4
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;12;10.2;18.8
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;13;11.4;22.3
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;14;11.8;20.3
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;15;11.2;20.7
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;16;14.0;19.5
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;17;14.3;18.0
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;18;13.6;21.4
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;19;11.7;20.2
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;20;12.9;23.7
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;21;13.0;22.0
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;22;12.5;20.4
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;23;11.2;21.2
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;24;10.6;19.4
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;25;8.8;20.1
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;26;9.9;20.5
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;27;8.8;17.8
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;28;8.1;14.6
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;29;7.1;14.8
+290004;La Florida, La Serena Ad.;29&deg 55' 3'' S;142;2017;04;30;10.8;15.6
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;01;9.1;20.0
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;02;9.9;25.1
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;03;10.7;24.8
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;04;10.6;19.9
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;05;9.9;26.7
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;06;11.8;25.2
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;07;11.4;19.4
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;08;8.1;20.0
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;09;7.8;21.3
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;10;9.7;24.3
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;11;11.6;19.8
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;12;10.3;19.6
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;13;10.5;19.7
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;14;9.8;21.7
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;15;11.0;20.0
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;16;12.7;19.9
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;17;9.6;20.4
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;18;10.9;19.7
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;19;11.0;19.2
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;20;13.8;21.6
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;21;14.1;24.8
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;22;11.3;25.0
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;23;11.0;22.0
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;24;9.6;19.0
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;25;9.1;19.8
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;26;9.4;25.3
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;27;12.3;27.3
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;28;12.6;29.7
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;29;12.8;26.6
+330007;Rodelillo, Ad.;33&deg 2' 12'' S;330;2017;04;30;8.7;14.7
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;01;8.8;20.0
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;02;8.2;23.4
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;03;8.1;25.2
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;04;10.0;24.0
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;05;9.0;27.0
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;06;9.7;26.5
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;07;11.2;16.2
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;08;8.6;17.8
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;09;4.0;22.0
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;10;6.0;28.0
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;11;8.6;30.2
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;12;10.2;27.0
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;13;9.0;23.0
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;14;7.4;21.8
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;15;10.6;21.8
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;16;12.6;22.0
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;17;9.4;23.2
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;18;12.0;23.0
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;19;11.4;21.8
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;20;13.8;15.0
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;21;14.0;21.8
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;22;13.1;23.7
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;23;9.9;21.6
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;24;8.8;18.4
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;25;7.2;17.6
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;26;4.2;21.8
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;27;5.0;25.4
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;28;6.0;26.4
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;29;7.0;28.4
+330019;Eulogio Sánchez, Tobalaba Ad.;33&deg 27' 19'' S;650;2017;04;30;9.0;28.5
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;01;9.7;21.7
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;02;7.5;25.6
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;03;8.5;26.5
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;04;9.8;25.3
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;05;9.0;28.0
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;06;9.4;27.1
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;07;11.6;17.7
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;08;8.6;20.4
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;09;5.2;23.2
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;10;6.1;28.6
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;11;8.0;32.0
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;12;8.9;27.5
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;13;8.9;24.0
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;14;8.0;23.4
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;15;9.8;22.2
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;16;12.7;22.6
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;17;9.7;23.9
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;18;12.5;24.6
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;19;11.8;22.1
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;20;13.8;16.6
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;21;14.5;23.6
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;22;13.1;25.3
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;23;8.6;23.5
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;24;6.5;18.9
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;25;5.8;20.0
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;26;4.5;23.7
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;27;3.9;26.8
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;28;4.5;28.8
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;29;5.1;30.1
+330020;Quinta Normal, Santiago;33&deg 26' 42'' S;534;2017;04;30;5.6;29.5
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;01;10.1;21.6
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;02;7.9;25.2
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;03;9.1;25.9
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;04;10.7;24.5
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;05;8.2;27.9
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;06;9.4;27.0
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;07;11.9;17.1
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;08;7.9;20.0
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;09;4.7;22.6
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;10;4.8;28.5
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;11;7.1;31.5
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;12;8.7;26.9
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;13;9.2;24.0
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;14;7.3;22.9
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;15;9.9;22.3
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;16;12.1;22.5
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;17;8.8;23.5
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;18;12.7;23.9
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;19;11.4;22.5
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;20;14.0;16.6
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;21;14.7;22.7
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;22;12.7;24.8
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;23;8.0;22.7
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;24;6.2;18.9
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;25;6.2;18.8
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;26;3.5;22.3
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;27;2.3;26.0
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;28;3.7;27.6
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;29;5.0;29.1
+330021;Pudahuel Santiago ;33&deg 23' 31'' S;482;2017;04;30;5.7;28.7
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;01;11.9;19.6
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;02;6.3;21.3
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;03;7.8;19.6
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;04;8.9;18.3
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;05;8.1;23.3
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;06;7.3;18.6
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;07;12.7;18.2
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;08;6.7;18.7
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;09;5.8;17.8
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;10;6.6;21.6
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;11;6.8;15.8
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;12;11.6;19.7
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;13;8.1;20.5
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;14;10.7;19.9
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;15;7.9;19.5
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;16;9.6;18.1
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;17;12.5;17.7
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;18;11.7;18.6
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;19;10.0;19.0
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;20;14.4;19.9
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;21;12.3;24.0
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;22;8.8;23.0
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;23;7.4;19.9
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;24;5.2;17.2
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;25;7.4;18.9
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;26;6.9;23.4
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;27;7.4;23.1
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;28;6.6;24.3
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;29;8.4;22.0
+330030;Santo Domingo, Ad.;33&deg 39' 18'' S;75;2017;04;30;5.0;15.3
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;01;13.1;20.9
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;02;14.7;20.9
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;03;15.0;20.3
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;04;15.0;20.8
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;05;13.7;21.6
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;06;15.2;22.0
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;07;15.2;19.6
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;08;15.5;19.4
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;09;16.5;20.5
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;10;17.0;22.0
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;11;17.0;20.6
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;12;15.3;21.1
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;13;12.9;19.6
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;14;14.4;20.4
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;15;13.6;20.6
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;16;13.9;20.3
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;17;14.8;20.7
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;18;15.1;21.9
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;19;14.8;20.9
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;20;15.2;21.0
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;21;13.6;19.7
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;22;13.5;19.9
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;23;13.6;20.1
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;24;16.2;20.2
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;25;15.4;18.0
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;26;14.2;17.3
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;27;15.2;18.9
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;28;15.6;20.3
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;29;13.5;20.4
+330031;Juan Fernández, Estación Meteorológica.;33&deg 38' 9'' S;40;2017;04;30;13.2;20.8
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;01;7.6;22.1
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;02;3.5;26.0
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;03;8.8;24.6
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;04;8.7;25.0
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;05;8.9;25.7
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;06;11.0;
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;07;10.8;19.8
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;08;7.1;21.4
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;09;7.4;21.0
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;10;3.9;26.6
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;11;7.2;27.5
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;12;8.3;27.1
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;13;7.6;23.7
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;14;6.9;23.9
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;15;7.6;24.0
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;16;10.2;21.3
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;17;7.1;24.5
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;18;9.5;24.6
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;19;11.4;21.6
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;20;13.6;17.7
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;21;6.8;19.6
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;22;9.3;21.3
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;23;5.8;16.3
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;24;2.8;14.1
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;25;7.7;17.6
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;26;4.3;19.3
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;27;5.1;20.8
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;28;7.6;22.7
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;29;6.3;20.3
+340031;General Freire, Curicó Ad.;34&deg 57' 59'' S;230;2017;04;30;4.6;22.0
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;01;5.2;23.2
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;02;3.2;23.6
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;03;7.4;23.6
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;04;8.4;21.0
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;05;4.5;24.8
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;06;5.7;24.3
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;07;11.0;19.2
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;08;4.6;18.6
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;09;5.1;23.5
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;10;3.7;26.0
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;11;12.3;27.4
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;12;7.6;26.6
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;13;5.5;21.1
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;14;4.9;21.3
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;15;8.0;24.7
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;16;6.4;24.7
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;17;6.8;22.8
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;18;8.1;22.6
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;19;11.5;15.2
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;20;12.4;19.7
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;21;10.9;20.1
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;22;6.6;21.2
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;23;5.3;17.9
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;24;2.5;17.7
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;25;6.1;16.8
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;26;1.1;18.7
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;27;3.2;21.8
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;28;6.0;22.9
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;29;10.4;23.3
+360011;General Bernardo O'Higgins, Chillán Ad.;36&deg 35' 14'' S;151;2017;04;30;4.6;24.0
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;01;10.0;19.2
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;02;10.5;19.8
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;03;8.9;20.4
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;04;8.4;19.8
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;05;9.3;20.6
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;06;8.1;19.9
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;07;10.6;17.9
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;08;9.4;17.1
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;09;7.4;20.2
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;10;9.1;22.3
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;11;14.9;24.6
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;12;12.4;18.6
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;13;10.9;18.1
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;14;11.4;20.3
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;15;8.0;20.3
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;16;10.7;17.5
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;17;10.5;20.5
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;18;11.5;20.8
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;19;14.4;15.6
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;20;11.7;18.8
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;21;12.8;18.7
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;22;7.6;19.4
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;23;8.9;17.2
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;24;7.2;16.2
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;25;5.8;16.6
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;26;4.9;18.1
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;27;7.0;19.4
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;28;7.9;21.2
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;29;8.9;21.1
+360019;Carriel Sur, Concepción.;36&deg 46' 42'' S;17;2017;04;30;7.8;19.1
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;01;5.0;22.4
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;02;3.8;21.8
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;03;3.0;23.0
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;04;7.0;21.4
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;05;7.0;24.0
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;06;5.0;
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;07;8.8;17.2
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;08;6.0;18.0
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;09;7.0;21.4
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;10;7.0;25.0
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;11;13.8;23.8
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;12;6.6;25.4
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;13;5.4;24.6
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;14;6.0;24.2
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;15;5.2;26.6
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;16;6.6;26.2
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;17;8.8;24.4
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;18;8.2;24.0
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;19;14.0;15.5
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;20;12.6;18.5
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;21;8.0;20.0
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;22;3.6;20.5
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;23;7.6;18.0
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;24;2.0;13.8
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;25;7.0;17.0
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;26;0.6;17.8
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;27;3.0;21.2
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;28;4.6;22.6
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;29;11.0;23.0
+370033;María Dolores, Los Angeles Ad.;37&deg 24' 10'' S;120;2017;04;30;12.0;24.2
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;01;4.3;21.0
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;02;10.1;17.7
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;03;9.6;18.3
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;04;5.6;19.6
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;05;12.1;20.4
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;06;8.5;16.2
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;07;6.1;16.3
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;08;5.6;17.3
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;09;3.2;20.7
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;10;6.1;21.1
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;11;7.6;22.8
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;12;6.2;26.4
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;13;9.0;18.1
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;14;6.0;19.9
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;15;7.1;27.2
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;16;5.6;26.9
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;17;7.7;26.6
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;18;7.4;22.9
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;19;11.2;17.9
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;20;11.7;14.0
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;21;5.7;18.8
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;22;5.0;17.0
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;23;4.6;16.7
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;24;5.3;13.7
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;25;5.7;15.2
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;26;7.8;14.3
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;27;10.5;17.6
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;28;10.6;20.5
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;29;6.9;18.9
+380013;Maquehue, Temuco Ad.;38&deg 46' 4'' S;86;2017;04;30;5.5;21.2
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;01;6.6;21.0
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;02;9.5;18.1
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;03;12.8;17.7
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;04;5.3;17.3
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;05;11.0;18.2
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;06;11.5;14.3
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;07;7.5;13.8
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;08;6.1;15.8
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;09;6.8;20.1
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;10;4.1;19.1
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;11;4.1;19.6
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;12;0.7;21.8
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;13;6.1;17.0
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;14;9.5;19.1
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;15;9.1;24.0
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;16;4.3;24.8
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;17;4.2;24.4
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;18;7.9;23.0
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;19;11.2;19.6
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;20;13.4;16.5
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;21;10.3;16.5
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;22;5.7;17.1
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;23;4.5;16.0
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;24;7.5;15.1
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;25;2.7;15.8
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;26;7.3;14.7
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;27;11.5;16.4
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;28;14.6;18.6
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;29;8.6;17.8
+390006;Pichoy, Valdivia Ad.;39&deg 39' 2'' S;21;2017;04;30;9.8;20.6
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;01;5.2;22.5
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;02;9.9;17.9
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;03;12.5;19.3
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;04;8.6;19.5
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;05;7.6;17.2
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;06;12.5;13.8
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;07;6.1;14.7
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;08;2.2;17.0
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;09;5.8;20.2
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;10;7.8;17.5
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;11;4.6;16.9
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;12;3.6;21.8
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;13;1.8;21.2
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;14;9.5;17.2
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;15;9.0;22.8
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;16;3.3;23.1
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;17;2.4;23.9
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;18;3.0;23.0
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;19;10.9;19.2
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;20;11.2;15.1
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;21;8.9;16.3
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;22;8.1;18.2
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;23;5.3;16.4
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;24;10.1;15.3
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;25;4.5;13.8
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;26;8.0;16.9
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;27;11.1;16.0
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;28;13.2;19.7
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;29;4.7;18.2
+400009;Cañal Bajo,  Osorno Ad.;40&deg 36' 18'' S;61;2017;04;30;12.0;21.5
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;01;6.2;20.4
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;02;11.3;17.8
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;03;10.9;16.9
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;04;10.5;16.6
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;05;8.6;16.6
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;06;11.5;13.0
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;07;3.5;14.2
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;08;4.1;16.3
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;09;6.4;18.1
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;10;10.8;15.2
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;11;4.4;14.2
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;12;1.5;18.4
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;13;2.9;20.7
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;14;9.5;18.4
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;15;9.0;19.4
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;16;4.4;23.8
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;17;4.0;21.9
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;18;6.2;21.9
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;19;12.4;16.9
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;20;9.6;14.4
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;21;7.4;15.5
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;22;5.3;15.8
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;23;3.9;14.9
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;24;9.8;14.2
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;25;2.6;12.3
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;26;8.4;15.6
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;27;10.9;15.2
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;28;11.3;16.4
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;29;5.7;16.7
+410005;El Tepual  Puerto Montt Ap.;41&deg 26' 6'' S;85;2017;04;30;13.3;21.2
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;01;1.8;20.2
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;02;10.6;14.1
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;03;7.8;14.8
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;04;8.3;13.8
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;05;9.8;14.9
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;06;8.2;13.9
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;07;5.3;10.7
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;08;5.8;13.5
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;09;6.3;20.0
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;10;8.8;17.4
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;11;-0.5;15.4
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;12;-2.8;17.3
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;13;0.3;18.8
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;14;1.3;19.2
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;15;3.2;18.5
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;16;10.1;18.4
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;17;6.2;21.2
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;18;4.6;21.1
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;19;10.3;17.9
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;20;9.3;12.8
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;21;5.2;12.8
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;22;6.1;12.4
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;23;5.1;11.4
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;24;5.7;10.0
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;25;5.1;11.3
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;26;6.3;14.8
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;27;6.8;12.3
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;28;10.8;15.0
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;29;7.6;17.1
+430002;Futaleufú Ad.;43&deg 11' 20'' S;347;2017;04;30;16.8;21.0
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;01;4.0;22.2
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;02;;17.0
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;03;9.2;15.0
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;04;8.6;15.1
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;05;10.1;13.8
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;06;8.3;13.6
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;07;6.5;10.5
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;08;5.9;16.7
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;09;5.8;19.0
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;10;8.0;16.7
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;11;-1.0;17.1
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;12;0.9;20.4
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;13;3.3;21.4
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;14;10.0;20.2
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;15;7.8;23.2
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;16;;23.3
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;17;4.4;21.8
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;18;3.5;21.8
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;19;13.0;20.2
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;20;9.4;12.2
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;21;6.6;13.2
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;22;7.4;13.5
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;23;5.5;11.7
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;24;5.9;11.3
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;25;5.6;10.8
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;26;6.6;15.0
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;27;7.3;14.6
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;28;10.8;15.5
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;29;4.5;17.2
+430004;Alto Palena Ad.;43&deg 36' 42'' S;281;2017;04;30;12.9;
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;01;5.7;19.3
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;02;11.0;16.3
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;03;9.6;14.5
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;04;8.9;12.3
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;05;8.9;14.0
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;06;9.1;13.9
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;07;5.0;10.9
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;08;1.9;12.6
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;09;9.0;14.2
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;10;11.9;15.0
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;11;0.7;13.3
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;12;2.3;
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;13;2.5;
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;17;6.0;18.6
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;18;5.0;15.3
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;19;10.5;14.7
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;20;8.6;11.9
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;21;5.4;11.8
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;22;7.3;11.0
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;23;6.8;11.5
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;24;8.5;11.0
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;25;6.9;10.3
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;26;6.1;12.3
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;27;7.8;13.0
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;28;10.6;13.5
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;29;9.6;14.8
+450001;Puerto Aysén Ad.;45&deg 23' 58'' S;11;2017;04;30;14.7;17.7
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;01;8.9;15.4
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;02;8.0;16.3
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;03;8.5;13.0
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;04;7.0;13.4
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;05;6.3;12.9
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;06;7.3;13.0
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;07;1.2;5.3
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;08;-1.5;10.0
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;09;5.9;15.2
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;10;10.3;15.8
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;11;-0.8;14.0
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;12;-3.4;14.9
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;13;-2.8;16.1
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;14;-0.4;16.9
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;15;-0.6;17.5
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;16;0.1;18.7
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;17;0.0;17.0
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;18;6.3;18.9
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;19;6.9;15.0
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;20;7.1;12.9
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;21;3.0;11.5
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;22;3.8;12.4
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;23;6.0;11.5
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;24;6.0;11.2
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;25;2.1;9.6
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;26;5.2;11.9
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;27;6.7;14.0
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;28;9.4;13.1
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;29;8.4;16.6
+450004;Teniente Vidal, Coyhaique Ad.;45&deg 35' 38'' S;310;2017;04;30;13.4;17.9
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;01;5.2;17.6
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;02;7.0;15.5
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;03;6.5;12.6
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;04;5.6;12.1
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;05;6.0;12.4
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;06;6.6;13.0
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;07;0.1;4.2
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;08;-3.5;8.9
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;09;5.7;14.7
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;10;11.1;13.8
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;11;-4.3;13.2
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;12;-5.5;17.6
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;13;-4.5;14.7
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;14;-1.1;16.4
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;15;-3.6;17.4
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;16;-1.8;19.9
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;17;-3.2;18.2
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;18;1.9;16.9
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;19;7.9;13.1
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;20;5.9;10.6
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;21;3.6;9.9
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;22;3.5;10.5
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;23;4.0;10.1
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;24;3.3;10.1
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;25;3.1;7.8
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;26;4.6;10.8
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;27;6.3;13.4
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;28;7.9;12.3
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;29;7.7;16.8
+450005;Balmaceda Ad.;45&deg 54' 46'' S;517;2017;04;30;12.1;17.1
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;01;4.8;15.6
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;02;8.0;17.4
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;03;8.2;18.2
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;04;3.1;16.2
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;05;8.0;15.2
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;06;5.7;10.8
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;07;3.6;7.3
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;08;0.6;11.1
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;09;5.5;19.6
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;10;12.5;15.8
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;11;-0.8;15.4
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;12;-0.5;14.4
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;13;0.5;15.3
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;14;1.3;15.1
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;15;1.8;17.6
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;16;1.9;18.4
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;17;1.7;15.1
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;18;2.9;19.4
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;19;2.9;17.3
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;20;3.4;15.5
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;21;2.6;13.8
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;22;1.8;14.3
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;23;1.6;12.8
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;24;4.3;15.4
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;25;2.5;12.4
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;26;6.4;14.3
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;27;3.4;17.3
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;28;4.6;17.3
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;29;3.4;19.0
+460001;Chile Chico Ad.;46&deg 34' 51'' S;306;2017;04;30;4.6;20.2
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;01;6.3;19.5
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;02;5.8;16.4
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;03;7.0;14.7
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;04;5.2;14.0
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;05;5.3;14.1
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;06;5.9;7.6
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;07;5.1;14.1
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;08;0.0;10.5
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;09;4.0;17.6
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;10;10.3;14.6
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;11;2.8;13.1
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;12;-1.5;16.0
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;13;0.4;16.8
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;14;0.5;16.9
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;15;0.7;18.2
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;16;1.6;17.1
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;17;1.8;15.9
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;18;4.1;17.5
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;19;3.9;15.1
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;20;3.7;10.4
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;21;2.7;13.1
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;22;3.4;8.8
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;23;0.1;8.8
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;24;4.0;13.0
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;25;3.6;10.4
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;26;1.9;13.4
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;27;0.2;15.1
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;28;4.3;16.6
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;29;6.3;11.1
+470001;Lord Cochrane Ad.;47&deg 14' 38'' S;204;2017;04;30;7.4;12.9
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;01;-2.7;16.7
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;02;-3.3;12.2
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;03;2.3;14.4
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;04;-0.8;12.4
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;05;1.1;7.6
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;06;-5.4;12.5
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;07;-7.7;12.5
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;08;0.0;14.7
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;09;-2.5;11.5
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;10;5.8;9.8
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;11;6.0;14.5
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;12;6.5;14.5
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;13;1.9;14.8
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;14;3.4;13.0
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;15;-3.7;12.7
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;16;-4.6;10.8
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;17;-3.6;6.3
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;18;4.0;16.8
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;19;7.8;16.5
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;20;4.8;11.6
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;21;2.1;11.9
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;22;2.7;9.9
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;23;0.0;8.1
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;24;1.9;8.2
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;25;-0.9;10.6
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;26;4.1;11.3
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;27;-1.0;8.4
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;28;2.7;13.8
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;29;1.6;7.5
+510005;Teniente Gallardo, Puerto Natales Ad.;51&deg 40' 2'' S;69;2017;04;30;-0.3;6.2
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;01;0.4;9.8
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;02;1.9;8.7
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;03;7.5;8.7
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;04;7.2;10.0
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;05;0.4;8.0
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;06;-2.4;7.3
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;07;-3.4;13.4
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;08;2.6;11.2
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;09;0.6;11.3
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;10;5.6;9.8
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;11;4.3;11.5
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;12;7.7;12.0
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;13;3.9;12.7
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;14;9.0;12.1
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;15;3.4;12.6
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;16;0.0;10.2
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;17;-0.2;7.9
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;18;5.1;12.8
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;19;7.1;13.3
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;20;4.9;10.0
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;21;2.4;9.2
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;22;1.4;7.1
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;23;-1.0;8.6
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;24;7.0;9.7
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;25;4.6;9.0
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;26;3.1;9.7
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;27;4.5;8.6
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;28;2.2;8.3
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;29;3.8;8.8
+520006;Carlos Ibañez, Punta Arenas Ap.;53&deg 0' 12'' S;38;2017;04;30;-2.0;8.4
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;01;-0.8;13.1
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;02;-1.4;11.7
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;03;6.8;8.4
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;04;6.8;10.0
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;05;2.6;7.6
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;06;-1.5;8.6
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;07;-3.0;12.3
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;08;5.2;10.0
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;09;2.1;11.8
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;10;5.0;9.2
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;11;4.7;12.1
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;12;7.9;12.2
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;13;4.9;12.0
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;14;6.7;13.2
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;15;3.1;12.1
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;16;3.3;11.6
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;17;-2.1;9.0
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;18;4.1;12.0
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;19;5.0;13.8
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;20;4.1;9.8
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;21;3.8;9.8
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;22;1.8;6.1
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;23;-2.0;9.4
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;24;5.2;11.3
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;25;4.0;9.9
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;26;0.8;10.6
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;27;2.0;8.6
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;28;0.0;9.1
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;29;4.2;9.6
+530005;Fuentes Martínez, Porvenir Ad.;53&deg 15' 13'' S;25;2017;04;30;-0.1;9.1
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;01;2.4;12.7
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;02;6.0;12.7
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;03;4.0;11.2
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;04;6.7;7.9
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;05;0.5;5.6
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;06;1.9;7.5
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;07;-2.1;13.3
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;08;7.6;9.6
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;09;2.3;12.3
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;10;5.0;8.4
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;11;4.2;11.5
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;12;7.1;11.0
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;13;4.7;11.0
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;14;7.2;11.0
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;15;8.8;15.2
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;16;7.0;10.8
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;17;0.1;9.6
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;18;4.6;13.5
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;19;5.1;14.3
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;20;4.4;9.5
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;21;3.0;6.8
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;22;2.0;6.2
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;23;-0.8;9.1
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;24;0.8;9.6
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;25;6.1;9.6
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;26;5.4;8.0
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;27;4.6;9.4
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;28;1.1;6.8
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;29;2.2;8.6
+550001;Guardia Marina Zañartu, Pto Williams Ad.;54&deg 55' 54'' S;15;2017;04;30;0.4;10.5
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;01;1.7;3.7
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;02;0.4;1.8
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;03;-0.5;0.6
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;04;-3.5;-0.5
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;05;-5.2;-0.2
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;06;-1.9;-0.2
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;07;-1.7;1.8
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;08;1.1;3.1
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;09;1.3;2.7
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;10;-1.6;2.0
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;11;-2.4;0.7
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;12;-3.2;1.4
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;13;-4.0;0.6
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;14;-3.9;1.1
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;15;0.2;1.9
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;16;-1.5;0.7
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;17;-0.2;1.6
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;18;-0.1;2.0
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;19;-10.7;3.0
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;20;-12.6;-7.2
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;21;-13.7;-10.4
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;22;-10.1;-1.5
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;23;-2.8;-1.0
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;24;-2.3;-0.5
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;25;-3.1;-0.6
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;26;-6.7;-2.4
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;27;-8.2;-6.4
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;28;-6.8;-1.5
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;29;-2.6;-1.5
+950001;C.M.A. Eduardo Frei Montalva, Antártica ;62&deg 11' 35'' S;45;2017;04;30;-4.0;-1.7
