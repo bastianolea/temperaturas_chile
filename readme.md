@@ -1,8 +1,11 @@
 # Datos de temperaturas extremas en Chile
 
-Repositorio que obtiene datos desde el [Portal de Datos Abiertos del Estado de Chile](https://datos.gob.cl/dataset/?q=temperatura) mediante web scrapping, unifica todas las fuentes de datos separadas en una sola base de datos de temperaturas, y produce visualizaciones.
+Repositorio que obtiene datos desde el [Portal de Datos Abiertos del Estado de Chile](https://datos.gob.cl/dataset/?q=temperatura) mediante web scrapping, unifica todas las fuentes de datos separadas en una sola base de datos de temperaturas, y produce visualizaciones y una [plataforma de visualización interactiva.](https://bastianoleah.shinyapps.io/temperaturas_chile/)
 
-El producto principal de este código es una base de datos de temperaturas extremas en Chile, por estación meteorológica y por día, [disponible convenientemente en un solo archivo `.csv`.](datos/procesados/temperaturas_chile.csv)
+[Accede al visualizador de datos por este enlace.](https://bastianoleah.shinyapps.io/temperaturas_chile/)
+
+El producto principal de este código es una base de datos de temperaturas extremas en Chile, por estación meteorológica y por día, desde 1970 a 2024 [disponible convenientemente en un solo archivo `.csv`.](datos/procesados/temperaturas_historicas_chile.csv)
+
 
 ## Obtención de los datos
 
@@ -16,5 +19,13 @@ Los datos son obtenidos de forma semi-automática usando técnicas de web scrapp
 
 
 ## Fuentes
-- Datos de la Dirección General de Aeronáutica Civil subidos a la plataforma [datos.gob.cl](https://datos.gob.cl/dataset/?q=temperatura)
+- Datos de la Dirección General de Aeronáutica Civil subidos a la plataforma de [Datos Abiertos del Estado](https://datos.gob.cl/dataset/?q=temperatura)
 - [Dirección Meteorológica de Chile](https://climatologia.meteochile.gob.cl)
+
+## Visualizador de datos
+
+[Accede al visualizador de datos por este enlace.](https://bastianoleah.shinyapps.io/temperaturas_chile/)
+
+![](pantallazos/temperaturas_chile_a.jpeg)
+
+![](pantallazos/temperaturas_chile_b.jpeg)

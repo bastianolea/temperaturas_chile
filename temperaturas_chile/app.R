@@ -1,7 +1,6 @@
 library(shiny)
 library(bslib)
 library(htmltools)
-
 library(arrow)
 library(dplyr)
 library(ggplot2)
@@ -27,13 +26,14 @@ color <- list(alto = "#D03447",
               texto = "#bfa2ba" #"#c8b9c5" #"#c2c3c7"
 )
 
-
 # opciones
 resolucion = 90
 options(spinner.type = 8, spinner.color = color$detalle)
 
 # ui ----
 ui <- page_fluid(
+  title = "Temperaturas extremas en Chile",
+  lang = "es",
   
   ## tema ----
   theme = bs_theme(bg = color$fondo,
@@ -44,9 +44,7 @@ ui <- page_fluid(
       glue(".card {overflow: visible !important; 
                    border: 1px solid {{color$detalle}};
                    border-radius: 5px; }", 
-           .open = "{{", .close = "}}"),
-      ".card-body {overflow: visible !important;}"
-    )
+           .open = "{{", .close = "}}"))
     ),
   
   # líneas internas de sliders
@@ -61,29 +59,33 @@ ui <- page_fluid(
   br(),
   
   # header ----
+  div(style = css(max_width = "1200px", margin = "auto", margin_bottom = "20px"),
   div(
     h1("Temperaturas extremas en Chile"),
     
-    markdown("Dashboard que visualiza datos históricos de temperaturas extremas en el país. Los datos fueron obtenidos desde la Dirección General de Aeronáutica Civil, por medio de la [plataforma de Datos Abiertos del Estado](https://datos.gob.cl/dataset/?q=temperatura), y desde la [Dirección Meteorológica de Chile](https://climatologia.meteochile.gob.cl) mediante web scraping.")
+    div(style = css(margin_top = "-4px", margin_bottom = "20px",
+                    ),
+    a(em("Bastián Olea Herrera"), 
+      href = "https://bastianolea.rbind.io",
+      style = css(color = color$detalle))
+    ),
+    
+    markdown("Visualización de datos históricos de temperaturas extremas en el país."),
+    markdown("Los datos fueron obtenidos desde la Dirección General de Aeronáutica Civil, por medio de la [plataforma de Datos Abiertos del Estado](https://datos.gob.cl/dataset/?q=temperatura), y desde la [Dirección Meteorológica de Chile](https://climatologia.meteochile.gob.cl) mediante web scraping.")
   ),
   
   br(),
   
-  card(style = css(max_width = "1000px", margin = "auto", margin_bottom = "20px"),
-       
-       card_body(
-       div(
-         selectInput("estacion", 
-                     "Estación Meteorológica",
-                     choices = c(lista_estaciones),
-                     selected = "330020", 
-                     width = "400px")
-       ),
-       div(style = css(margin_top = "-24px"),
-       em("Seleccione una estación meteorológica para visualizar sus datos en los gráficos a continuación. La selección afectará a todos los gráficos, excepto los mapas.")
-       )
-       )
-  ),
+  div(style = css(margin_bottom = "48px"),
+      selectInput("estacion", 
+                  "Estación Meteorológica",
+                  choices = c(lista_estaciones),
+                  selected = "330020", 
+                  width = "400px"),
+      
+      em("Seleccione una estación meteorológica para visualizar sus datos en los gráficos a continuación. La selección afectará a todos los gráficos, excepto los mapas.")
+  )
+),
   
   ## primera fila ----
   card(style = css(max_width = "1000px", margin = "auto", margin_bottom = "20px"),
@@ -228,8 +230,10 @@ ui <- page_fluid(
                     width = "600px")
     ),
     
+    em("Seleccione un año para destacarlo en las siguientes dos visualizaciones. El año seleccionado aparecerá como una línea más gruesa que el resto. El resto de líneas corresponde a los años anteriores, como una forma de comparar el año seleccionado con el histórico de la estación meteorológica."),
+    
     layout_columns(
-      col_widths = c(5, 7),
+      col_widths = c(6, 6),
       
       card(full_screen = TRUE,
            card_header(
@@ -238,7 +242,8 @@ ui <- page_fluid(
            
            div(style = css(margin = "auto"),
                div(style = css(min_width = "500px", margin = "auto"),
-                   plotOutput("grafico_radial_año", height = 600, width = 600) |> withSpinner()
+                   plotOutput("grafico_radial_año", height = 600, 
+                              width = 600) |> withSpinner()
                )
            )
       ),
@@ -249,17 +254,38 @@ ui <- page_fluid(
              h4("Temperaturas diarias, por meses")
            ),
            
+           div(style = css(margin_top = "-20px", margin_bottom = "-24px"),
            sliderInput("mes_zoom",
                        label = "Meses",
                        min = 1, max = 12,
                        value = c(1, 4), 
-                       width = "100%"),
+                       width = "100%")
+           ),
+           
+           em("Seleccione un rango de meses para acotar la visualización a una temporada del año específica."),
            
            div(style = css(min_width = "600px"),
                plotOutput("grafico_lineal_mes") |> withSpinner()
            )
       )
     )
+  ),
+  
+  ## firma ----
+  div(style = "padding: 28px; font-size: 90%;",
+      
+      h4("Fuentes:"),
+      markdown("- Datos de la Dirección General de Aeronáutica Civil subidos a la plataforma [Datos Abiertos del Estado](https://datos.gob.cl/dataset/?q=temperatura)
+- [Dirección Meteorológica de Chile](https://climatologia.meteochile.gob.cl)"),
+      
+      br(),
+      
+      markdown("Desarrollado en R por [Bastián Olea Herrera.](https://bastianolea.rbind.io)"),
+      
+      markdown("Puedes explorar mis otras [aplicaciones interactivas sobre datos sociales en mi portafolio.](https://bastianolea.github.io/shiny_apps/)"),
+      
+      
+      markdown("Los datos y el código de fuente de esta app y de la obtención y procesamiento de los datos están [disponibles en el repositorio de GitHub.](https://github.com/bastianolea/temperaturas_chile)")
   )
   
   
@@ -300,7 +326,7 @@ server <- function(input, output) {
                      y = (t_max+t_min)/2), 
                  label.size = NA,
                  fill = color$fondo, colour = color$texto,
-                 size = 3, angle = -90, fontface = "bold") +
+                 size = 3.5, angle = -90, fontface = "bold") +
       geom_text(aes(label = round(t_max, 1), color = t_max,
                     y = t_max + max(t_max)*0.03), size = 3) +
       geom_text(aes(label = round(t_min, 1), color = t_min,
@@ -345,7 +371,7 @@ server <- function(input, output) {
                      y = (t_max+t_min)/2), 
                  label.size = NA,
                  fill = color$fondo, color = color$texto,
-                 size = 3, angle = -90, fontface = "bold") +
+                 size = 3.5, angle = -90, fontface = "bold") +
       geom_text(aes(label = round(t_max, 1), color = t_max,
                     y = t_max + max(t_max)*0.03), size = 3) +
       geom_text(aes(label = round(t_min, 1), color = t_min,
@@ -514,7 +540,8 @@ server <- function(input, output) {
             panel.spacing.x = unit(5, "mm"),
             # panel.grid.major.y = element_line(color = "red"),
             legend.title = element_text(face = "italic", color = color$detalle, size = 9),
-            legend.text = element_text(color = color$detalle, margin = margin(l = 2, r = 4)),
+            legend.text = element_text(color = color$texto, 
+                                       margin = margin(l = 2, r = 8)),
             axis.text.y = element_text(colour = color$texto,
                                        hjust = 1, size = 8, 
                                        margin = margin(r = 2)))
@@ -551,7 +578,7 @@ server <- function(input, output) {
       coord_radial(rotate.angle = T, inner.radius = 0.1) +
       theme_void() +
       theme(text = element_text(colour = color$texto)) +
-      theme(axis.text.x = element_text(face = "bold", color = color$detalle, size = 9),
+      theme(axis.text.x = element_text(face = "bold", color = color$texto, size = 9),
             panel.grid.major.x = element_line(linetype = "dashed", colour = color$detalle),
             panel.grid.major.y = element_line(colour = color$detalle)) +
       theme(legend.position = "none")
@@ -601,7 +628,7 @@ server <- function(input, output) {
       coord_radial(rotate.angle = T, inner.radius = 0.1) +
       theme_void() +
       theme(text = element_text(colour = color$texto)) +
-      theme(axis.text.x = element_text(face = "bold", color = color$detalle, size = 9),
+      theme(axis.text.x = element_text(face = "bold", color = color$texto, size = 9),
             panel.grid.major.x = element_line(linetype = "dashed", colour = color$detalle),
             panel.grid.major.y = element_line(colour = color$detalle)) +
       theme(legend.position = "none")
@@ -637,7 +664,7 @@ server <- function(input, output) {
       coord_radial(rotate.angle = T, inner.radius = 0.1) +
       theme_void() +
       theme(text = element_text(colour = color$texto)) +
-      theme(axis.text.x = element_text(face = "bold", color = color$detalle, size = 9),
+      theme(axis.text.x = element_text(face = "bold", color = color$texto, size = 9),
             panel.grid.major.x = element_line(linetype = "dashed", colour = color$detalle),
             panel.grid.major.y = element_line(colour = color$detalle)) +
       theme(legend.position = "none")
@@ -665,10 +692,10 @@ server <- function(input, output) {
       # coord_radial(rotate.angle = T, inner.radius = 0.1) +
       theme_void() +
       theme(text = element_text(colour = color$texto)) +
-      theme(axis.text.x = element_text(color = color$detalle, size = 9,
+      theme(axis.text.x = element_text(color = color$texto, size = 9,
                                        face = "bold", margin = margin(r = 4, t = 4)),
             axis.text.y = element_text(color = color$detalle, size = 9,
-                                       margin = margin(l = 7)),
+                                       margin = margin(l = 0, r = 4)),
             panel.grid.major.x = element_line(linetype = "dashed", colour = color$detalle),
             panel.grid.major.y = element_line(colour = color$detalle)) +
       theme(legend.position = "none")
