@@ -10,5 +10,10 @@ datos_unificados <- bind_rows(datos,
 
 datos_unificados
 
+# guardar
+readr::write_csv2(datos_unificados,
+                  "datos/procesados/temperaturas_chile_unificadas.csv")
+
+# guardar para app
 arrow::write_parquet(datos_unificados,
                      "temperaturas_chile/temperaturas.parquet")
