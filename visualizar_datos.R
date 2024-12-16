@@ -26,6 +26,7 @@ datos_mes <- datos_unificados |>
   summarize(t_max = mean(t_max, na.rm = T),
             t_min = mean(t_min, na.rm = T))
 
+# estilo 1
 datos_mes |> 
   ggplot() +
   aes(x = año) +
@@ -48,8 +49,40 @@ datos_mes |>
   scale_x_continuous(breaks = unique(datos_mes$año)) +
   scale_color_gradient(low = "#3A88E3", high = "#D03447") +
   theme_void() +
-  guides(color = guide_none())
-  # theme(axis.text.x = element_text(face = "bold", angle = -90, margin = margin(b = 10)))
+  guides(color = guide_none()) 
+# theme(axis.text.x = element_text(face = "bold", angle = -90, margin = margin(b = 10)))
+
+
+# estilo 2
+datos_mes |> 
+  ggplot() +
+  aes(x = año) +
+  # segmento
+  geom_segment(aes(xend = año, y = t_min, yend = t_max),
+               linewidth = .8, lineend = "round", alpha = .1) +
+  # puntos
+  geom_point(aes(y = t_max, color = t_max), size = 4) +
+  geom_point(aes(y = t_min, color = t_min), size = 4) +
+  # textos
+  geom_label(aes(label = año, #round(t_max-t_min, 1),
+                y = (t_max+t_min)/2), 
+             label.size = NA,
+             fill = "white",
+            size = 3, angle = -90, fontface = "bold") +
+  geom_text(aes(label = round(t_max, 1), color = t_max,
+                y = t_max + max(t_max)*0.02), size = 3) +
+  geom_text(aes(label = round(t_min, 1), color = t_min,
+                y = t_min - max(t_max)*0.02), size = 3) +
+  # escalas
+  scale_y_continuous(labels = ~paste0(.x, "°"),
+                     expand = expansion(c(0.1, 0.1))) +
+  scale_x_continuous(breaks = unique(datos_mes$año)) +
+  scale_color_gradient(low = "#3A88E3", high = "#D03447") +
+  theme_void() +
+  guides(color = guide_none()) +
+  theme(axis.text.y = element_text(margin = margin(l = 7, r = 0)),
+        panel.grid.major.y = element_line(linetype = "dashed", color = "grey95"))
+
 
 
 
@@ -62,6 +95,7 @@ datos_año <- datos_unificados |>
   summarize(t_max = mean(t_max, na.rm = T),
             t_min = mean(t_min, na.rm = T))
 
+# estilo 1
 datos_año |> 
   ggplot() +
   aes(x = año) +
@@ -85,14 +119,44 @@ datos_año |>
   scale_color_gradient(low = "#3A88E3", high = "#D03447") +
   theme_void() +
   guides(color = guide_none())
-  # theme(axis.text.x = element_text(face = "bold", angle = -90, margin = margin(b = 10)))
+# theme(axis.text.x = element_text(face = "bold", angle = -90, margin = margin(b = 10)))
+
+
+# estilo 2
+datos_año |> 
+  ggplot() +
+  aes(x = año) +
+  # segmento
+  geom_segment(aes(xend = año, y = t_min, yend = t_max),
+               linewidth = .8, lineend = "round", alpha = .1) +
+  # puntos
+  geom_point(aes(y = t_max, color = t_max), size = 4) +
+  geom_point(aes(y = t_min, color = t_min), size = 4) +
+  # textos
+  geom_label(aes(label = año, #round(t_max-t_min, 1),
+                 y = (t_max+t_min)/2), 
+             label.size = NA,
+             fill = "white",
+             size = 3, angle = -90, fontface = "bold") +
+  geom_text(aes(label = round(t_max, 1), color = t_max,
+                y = t_max + max(t_max)*0.025), size = 3) +
+  geom_text(aes(label = round(t_min, 1), color = t_min,
+                y = t_min - max(t_max)*0.025), size = 3) +
+  # escalas
+  scale_y_continuous(labels = ~paste0(.x, "°"),
+                     expand = expansion(c(0.1, 0.1))) +
+  scale_x_continuous(breaks = unique(datos_año$año)) +
+  scale_color_gradient(low = "#3A88E3", high = "#D03447") +
+  theme_void() +
+  guides(color = guide_none()) +
+  theme(axis.text.y = element_text(margin = margin(l = 7, r = 0)),
+        panel.grid.major.y = element_line(linetype = "dashed", color = "grey95"))
 
 
 
-
-# promedio anual de una estación ----
+# promedio anual histórico de una estación ----
 datos_año_prom <- datos_unificados |> 
-  filter(año >= 2000) |> 
+  filter(año >= 1970) |> 
   filter(codigo_nacional == "330021") |>
   group_by(codigo_nacional, año) |>
   summarize(t_max = mean(t_max, na.rm = T),
@@ -108,7 +172,7 @@ datos_año_prom |>
   geom_line(linewidth = 1.2, alpha = .3) +
   # textos
   geom_label(aes(label = round(t_med, 1), 
-                y = t_med + max(t_med)*0.025), 
+                 y = t_med + max(t_med)*0.025), 
              size = 2.5, label.size = NA) +
   # puntos
   geom_point(size = 4) +
@@ -122,6 +186,69 @@ datos_año_prom |>
   theme(axis.text.x = element_text(face = "bold", angle = -90, margin = margin(b = 10)),
         axis.text.y = element_text(margin = margin(l = 7, r = -8)),
         panel.grid.major.y = element_line(linetype = "dashed", color = "grey95"))
+
+
+
+# (nuevo) maximas mensuales histórico de una estación ----
+datos_hist_max <- datos_unificados |> 
+  filter(año >= 1968) |>
+  filter(codigo_nacional == "330021") |>
+  mutate(fecha = floor_date(fecha, "month", week_start = 1)) |> 
+  group_by(codigo_nacional, fecha, año) |>
+  summarize(t_max = max(t_max, na.rm = T),
+            t_min = min(t_min, na.rm = T)) |> 
+  ungroup()
+
+# promedio anual
+datos_hist_max_prom <- datos_hist_max |> 
+  mutate(fecha = floor_date(fecha, "year")) |> 
+  group_by(fecha) |> 
+  summarize(t_med = mean(t_max),
+            t_25 = quantile(t_max, 0.25),
+            t_75 = quantile(t_max, 0.75)) |> 
+  rename(t_max = t_med)
+
+
+datos_hist_max |> 
+  ggplot() +
+  aes(x = fecha, y = t_max, color = t_max) +
+  # fondo
+  # geom_ribbon(data = datos_hist_max_prom,
+  #             aes(ymin = t_25,
+  #                 ymax = t_75),
+  #             color = NA, fill = "black",
+  #             alpha = .06) +
+  # líneas
+  geom_line(linewidth = 0.7, alpha = 1) +
+  # promedio
+  # geom_line(data = datos_hist_max_prom,
+  #           linewidth = 2, color = "white", alpha = 1) +
+  geom_line(data = datos_hist_max_prom,
+            linewidth = 1,
+            color = "#D03447", 
+            alpha = .3) +
+  # punto
+  # geom_point(data = datos_hist_max_prom |> filter(fecha == max(fecha)),
+  #            color = "white", size = 5) +
+  # geom_point(data = datos_hist_max_prom |> filter(fecha == max(fecha)),
+  #            color = "#D03447", size = 4) +
+  # escalas
+  scale_color_gradient(low = "#3A88E3", high = "#D03447") +
+  scale_y_continuous(labels = ~paste0(.x, "°"),
+                     limits = c(0, 40)) +
+  scale_x_date(breaks = c(ymd(paste(seq(1950, 2024, by = 10), "01-01")),
+                          ymd(paste(2024, "01-01"))),
+    #date_breaks = "10 years",
+               date_labels = "%Y", 
+               limits = c(min(datos_hist_max$fecha), 
+                          max(datos_hist_max$fecha))
+               ) +
+  guides(color = guide_none()) +
+  theme_void() +
+  theme(axis.text.x = element_text(face = "bold", angle = -90, margin = margin(b = 10)),
+        axis.text.y = element_text(margin = margin(l = 7, r = -8)),
+        panel.grid.major.y = element_line(linetype = "dashed", color = "grey95"),
+        panel.grid.major.x = element_line(color = "grey95"))
 
 
 
@@ -200,7 +327,7 @@ datos_mapa |>
         legend.title = element_text(face = "italic"),
         legend.text = element_text(margin = margin(l = 2, r = 4)),
         axis.text.y = element_text(colour = "grey80",
-                                    hjust = 1, size = 7, 
+                                   hjust = 1, size = 7, 
                                    margin = margin(r = 2)))
 
 
@@ -209,7 +336,7 @@ datos_mapa |>
 datos_radial_total <- datos_unificados |> 
   filter(codigo_nacional == "330021") |>
   mutate(fecha_x = ymd(paste(2024, mes, dia)))
-  
+
 datos_radial_total |> 
   ggplot() +
   aes(x = fecha_x, y = t_max) +
