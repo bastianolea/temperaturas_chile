@@ -13,10 +13,14 @@ library(shinycssloaders)
 datos <- read_parquet("temperaturas.parquet")
 estaciones <- read_parquet("estaciones.parquet")
 
-lista_estaciones <- estaciones |> 
-  select(nombre, codigo_nacional) |> 
-  tibble::deframe()
+# lista_estaciones <- estaciones |> 
+#   select(nombre, codigo_nacional) |> 
+#   tibble::deframe()
 
+lista_estaciones <- datos |>
+  select(nombre, codigo_nacional) |> 
+  distinct() |> 
+  tibble::deframe()
 
 # colores
 color <- list(alto = "#D03447",
@@ -298,6 +302,8 @@ server <- function(input, output) {
   dato_estacion <- reactive({
     datos |> 
       filter(codigo_nacional == input$estacion)
+    
+    # browser()
   })
   
   # promedio mensual ----
