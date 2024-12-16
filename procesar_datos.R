@@ -82,7 +82,15 @@ datos_4 <- datos_3 |>
 datos_5 <- datos_4 |> 
   mutate(fecha = ymd(paste(año, mes, dia)))
 
-# guardar
-datos_5 |> write_csv2("datos/procesados/temperaturas_chile.csv")
+# coordenadas
+datos_6 <- datos_5 |> 
+  mutate(across(c(latitud, longitud), 
+              ~stringr::str_replace(.x, ",", "\\.")),
+       across(c(latitud, longitud), 
+              as.numeric))
 
-datos_5 |> write_rds("datos/procesados/temperaturas_chile.rds")
+
+# guardar
+datos_6 |> write_csv2("datos/procesados/temperaturas_chile.csv")
+
+datos_6 |> write_rds("datos/procesados/temperaturas_chile.rds")

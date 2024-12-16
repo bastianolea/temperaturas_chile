@@ -124,13 +124,47 @@ datos_historicos_3 <- datos_historicos_2 |>
 datos_historicos_3 |> 
   filter(is.na(fecha))
 
-# agregar datos de estaciones
+
+
+
+# reestructurar en formato wide
 datos_historicos_4 <- datos_historicos_3 |> 
+  # filter(codigo_nacional == 180005) |> 
+  select(codigo_nacional,
+         fecha, dia, mes, año,
+         temperatura, media) |> 
+  pivot_wider(id_cols = c(codigo_nacional, fecha, dia, mes, año),
+              names_from = temperatura, values_from = media) |> 
+  # ordenar
+  arrange(codigo_nacional, fecha)
+
+# limpiar
+datos_historicos_5 <- datos_historicos_4 |> 
+  mutate(across(c(t_min, t_med, t_max), as.numeric))
+
+# datos_historicos_5 |> 
+#   print(n=200)
+
+# # las temperaturas vienen en días distintos, entonces quedan datos perdidos en algunas fechas
+# datos_historicos_4 |> 
+#   arrange(desc(fecha)) |> 
+#   fill(c(t_min, t_med, t_max), .direction = "up")
+# # podrían rellenarse, pero mejor que queden perdidos para respetar el dato original
+
+
+# agregar datos de estaciones
+datos_historicos_6 <- datos_historicos_5 |>
   left_join(estaciones,
-          by = join_by(codigo_nacional))
+            by = join_by(codigo_nacional)) |> 
+  mutate(codigo_nacional = as.character(codigo_nacional))
 
 
 # guardar ----
-datos_historicos_4 |> readr::write_csv2("datos/procesados/temperaturas_historicas_chile.csv")
+datos_historicos_6 |> readr::write_csv2("datos/procesados/temperaturas_historicas_chile.csv")
 
-datos_historicos_4 |> readr::write_rds("datos/procesados/temperaturas_historicas_chile.rds")
+datos_historicos_6 |> readr::write_rds("datos/procesados/temperaturas_historicas_chile.rds")
+
+# # copiar a app
+# file.copy("datos/procesados/temperaturas_historicas_chile.rds",
+#           "temperaturas_chile/temperaturas_historicas_chile.rds",
+#           overwrite = TRUE)

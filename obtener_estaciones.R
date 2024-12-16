@@ -22,3 +22,6 @@ estaciones <- tablas[[2]] |>
 # guardar
 write.csv2(estaciones,
            "datos/estaciones_meteorologicas_chile.csv")
+
+# guardar en app
+arrow::write_parquet(estaciones, "temperaturas_chile/estaciones.parquet")
