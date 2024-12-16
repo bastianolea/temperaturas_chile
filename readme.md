@@ -4,7 +4,7 @@ Repositorio que obtiene datos desde el [Portal de Datos Abiertos del Estado de C
 
 [Accede al visualizador de datos por este enlace.](https://bastianoleah.shinyapps.io/temperaturas_chile/)
 
-El producto principal de este código es una base de datos de temperaturas extremas en Chile, por estación meteorológica y por día, desde 1970 a 2024 [disponible convenientemente en un solo archivo `.csv`.](datos/procesados/temperaturas_historicas_chile.csv)
+El producto principal de este código es una base de datos de temperaturas extremas en Chile, por estación meteorológica y por día, desde 1970 a 2024 [disponible convenientemente en un solo archivo `.csv`](datos/procesados/temperaturas_chile_unificadas.csv) (también disponible [en `.rds`](datos/procesados/temperaturas_chile_unificadas.rds) y [en formato `.parquet`](temperaturas_chile/temperaturas.parquet))
 
 
 ## Obtención de los datos
