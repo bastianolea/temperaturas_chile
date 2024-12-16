@@ -1,6 +1,15 @@
 # Datos de temperaturas extremas en Chile
 
-Repositorio que obtiene datos desde el [Portal de Datos Abiertos del Estado de Chile](https://datos.gob.cl/dataset/?q=temperatura) mediante web scrapping, unifica todas las fuentes de datos separadas en una sola base de datos de temperaturas, y produce visualizaciones y una [plataforma de visualización interactiva.](https://bastianoleah.shinyapps.io/temperaturas_chile/)
+[Visualizador de datos de temperaturas extremas en el país.]((https://bastianoleah.shinyapps.io/temperaturas_chile/)) Permite consultar rápidamente datos históricos para obtener gráficos que revelan los cambios en temperaturas a través del tiempo en nuestro país. El objetivo es visibilizar los efectos del cambio climático por medio de los datos.
+
+En esta plataforma puedes visualizar datos históricos sobre temperaturas extremas del país, cuyo objetivo es visibilizar los efectos del cambio climático por medio de los datos.
+
+Los datos se obtienen desde el Portal de Datos Abiertos del Estado de Chile mediante web scrapping. El proyecto unifica todas las fuentes de datos separadas en una sola base de datos de temperaturas, los cuales son utilizados en la plataforma de visualización interactiva. 
+
+Los datos son obtenidos desde fuentes oficiales, y abarcan aproximadamente desde 1970 a 2024.
+
+Este repositorio obtiene datos desde el [Portal de Datos Abiertos del Estado de Chile](https://datos.gob.cl/dataset/?q=temperatura) mediante web scrapping, unifica todas las fuentes de datos separadas en una sola base de datos de temperaturas, y produce visualizaciones y una [plataforma de visualización interactiva.](https://bastianoleah.shinyapps.io/temperaturas_chile/)
+
 
 [Accede al visualizador de datos por este enlace.](https://bastianoleah.shinyapps.io/temperaturas_chile/)
 
