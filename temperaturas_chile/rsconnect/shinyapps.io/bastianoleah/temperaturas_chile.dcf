@@ -1,0 +1,12 @@
+name: temperaturas_chile
+title: temperaturas_chile
+username: bastianoleah
+account: bastianoleah
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13606032
+bundleId: 9528302
+url: https://bastianoleah.shinyapps.io/temperaturas_chile/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

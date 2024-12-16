@@ -34,19 +34,33 @@ options(spinner.type = 8, spinner.color = color$detalle)
 
 # ui ----
 ui <- page_fluid(
+  
+  ## tema ----
   theme = bs_theme(bg = color$fondo,
                    fg = color$texto,
                    primary = color$alto,
                    secondary = color$alto) |> 
-    bs_add_rules(
+    bs_add_rules(c(
       glue(".card {overflow: visible !important; 
                    border: 1px solid {{color$detalle}};
                    border-radius: 5px; }", 
-           .open = "{{", .close = "}}")
+           .open = "{{", .close = "}}"),
+      ".card-body {overflow: visible !important;}"
+    )
     ),
+  
+  # líneas internas de sliders
+  tags$style(
+    HTML(".irs-line, .irs-grid-pol {background-color:", color$detalle ,"!important;}")
+  ),
+  
+  # borde de selector
+  tags$style(
+    HTML(".selectize-input {border: 1px solid", color$detalle, ";}")),
   
   br(),
   
+  # header ----
   div(
     h1("Temperaturas extremas en Chile"),
     
@@ -55,98 +69,113 @@ ui <- page_fluid(
   
   br(),
   
-  div(
-    selectInput("estacion", 
-                "Estación Meteorológica",
-                choices = c(lista_estaciones),
-                selected = "330020", 
-                width = "100%")
+  card(style = css(max_width = "1000px", margin = "auto", margin_bottom = "20px"),
+       
+       card_body(
+       div(
+         selectInput("estacion", 
+                     "Estación Meteorológica",
+                     choices = c(lista_estaciones),
+                     selected = "330020", 
+                     width = "400px")
+       ),
+       div(style = css(margin_top = "-24px"),
+       em("Seleccione una estación meteorológica para visualizar sus datos en los gráficos a continuación. La selección afectará a todos los gráficos, excepto los mapas.")
+       )
+       )
   ),
   
-  card(
-    card_header(
-      h2("Temperaturas máximas y mínimas por estación"),
-    ),
-    
-    p("Comparación anual de temperaturas máximas y mínimas de la estación meteorológica seleccionada."),
-    
-    navset_card_underline(
-      
-      nav_panel("Mes",
-                
-                card_header(
-                  h4("Temperaturas máximas y mínimas mensuales"),
-                ),
-                
-                sliderInput("mes",
-                            label = "Mes",
-                            min = 1, max = 12,
-                            value = 3, width = "100%"),
-                
-                em("Cada barra vertical representa un año, y los puntos en sus extremos representan la temperatura máxima y mínima del mes seleccionado."),
-                
-                div(style = css(min_width = "600px"),
-                    plotOutput("grafico_promedio_mes") |> withSpinner()
-                ),
-                
-                em("Por ejemplo, si se selecciona el mes 3 (marzo), los puntos representan las temperaturas máximas y mínimas de la estación seleccionada, en el mes de marzo, en cada año."),
-      ),
-      nav_panel("Año",
-                
-                card_header(
-                  h4("Temperaturas máximas y mínimas anuales"),
-                ),
-                
-                em("Cada barra vertical representa un año, y los puntos en sus extremos representan la temperatura máxima y mínima del año."),
-                
-                div(style = css(min_width = "600px"),
-                    plotOutput("grafico_promedio_anual") |> withSpinner()
-                )
-      )
-    )
+  ## primera fila ----
+  card(style = css(max_width = "1000px", margin = "auto", margin_bottom = "20px"),
+       card_header(
+         h2("Temperaturas máximas y mínimas por estación"),
+       ),
+       
+       p("Comparación anual de temperaturas máximas y mínimas de la estación meteorológica seleccionada."),
+       
+       navset_card_underline(
+         
+         nav_panel("Mes",
+                   
+                   card_header(
+                     h4("Temperaturas máximas y mínimas mensuales"),
+                   ),
+                   
+                   div(style = css(margin = "auto"),
+                       sliderInput("mes",
+                                   label = "Mes",
+                                   min = 1, max = 12,
+                                   value = 3, width = "400px")
+                   ),
+                   
+                   em("Cada barra vertical representa un año, y los puntos en sus extremos representan la temperatura máxima y mínima del mes seleccionado."),
+                   
+                   div(style = css(min_width = "600px"),
+                       plotOutput("grafico_promedio_mes") |> withSpinner()
+                   ),
+                   
+                   em("Por ejemplo, si se selecciona el mes 3 (marzo), los puntos representan las temperaturas máximas y mínimas de la estación seleccionada, en el mes de marzo, en cada año."),
+         ),
+         nav_panel("Año",
+                   
+                   card_header(
+                     h4("Temperaturas máximas y mínimas anuales"),
+                   ),
+                   
+                   em("Cada barra vertical representa un año, y los puntos en sus extremos representan la temperatura máxima y mínima del año."),
+                   
+                   div(style = css(min_width = "600px"),
+                       plotOutput("grafico_promedio_anual") |> withSpinner()
+                   )
+         )
+       )
   ),
   
-  card(
-    card_header(
-      h2("Temperaturas máximas mensuales, histórico")
-    ),
-    
-    em("Gráfico de datos históricos, donde la línea zigzagueante representa la temperatura máxima mensual, y su evolución a través de las décadas."),
-    
-    div(style = css(min_width = "600px"),
-        plotOutput("grafico_promedio_anual_estacion",
-                   height = 350) |> withSpinner()
-    )
+  ## segunda fila ----
+  card(style = css(max_width = "1000px", margin = "auto", margin_bottom = "20px"),
+       card_header(
+         h2("Temperaturas máximas mensuales, histórico")
+       ),
+       
+       em("Gráfico de datos históricos, donde la línea zigzagueante representa la temperatura máxima mensual, y su evolución a través de las décadas."),
+       
+       div(style = css(min_width = "600px"),
+           plotOutput("grafico_promedio_anual_estacion",
+                      height = 350) |> withSpinner()
+       )
   ),
   
   
   ## mapa ----
-  card(
-    card_header(
-      h2("Aumento de temperaturas máximas por año, por estación")
-    ),
-    
-    em("En esta visualización se representan las ubicaciones geográficas de las estaciones meteorológicas por medio de puntos, y hacia el lado se van mostrando las mismas estaciones, año a año. El tamaño y color de los puntos representa la diferencia de temperatura máxima registrada con respecto al año anterior."),
-    
-    div(style = css(min_width = "700px"),
-        plotOutput("mapa_diferencia",
-                   height = 450) |> withSpinner()
-    ),
-    
-    em("Un punto más grande y rojizo significa que en ese año, la temperatura máxima registrada en esa estación fue superior a la máxima del año anterior."),
+  card(style = css(max_width = "1000px", margin = "auto", margin_bottom = "20px"),
+       card_header(
+         h2("Aumento de temperaturas máximas por año, por estación")
+       ),
+       
+       em("En esta visualización se representan las ubicaciones geográficas de las estaciones meteorológicas por medio de puntos, y hacia el lado se van mostrando las mismas estaciones, año a año. El tamaño y color de los puntos representa la diferencia de temperatura máxima registrada con respecto al año anterior."),
+       
+       div(style = css(min_width = "700px"),
+           plotOutput("mapa_diferencia",
+                      height = 450) |> withSpinner()
+       ),
+       
+       em("Un punto más grande y rojizo significa que en ese año, la temperatura máxima registrada en esa estación fue superior a la máxima del año anterior."),
   ),
   
   
   ## radiales ----
-  div(
-    sliderInput("año",
-                label = "Año de inicio",
-                min = min(datos$año), max = 2023,
-                sep = "",
-                value = 1970, width = "100%")
-  ),
+  card_body(
+    div(style = css(margin = "auto"),
+        # div(#style = css(margin = "auto"),
+        sliderInput("año",
+                    label = "Año de inicio",
+                    min = min(datos$año), max = 2024,
+                    sep = "", step = 1,
+                    value = 1970, width = "600px")
+        # )
+    )),
   
-
+  
   layout_columns(
     col_widths = c(6, 6),
     card(full_screen = TRUE,
@@ -157,10 +186,10 @@ ui <- page_fluid(
          em("Este gráfico radial muestra las temperaturas máximas diarias, dispuestas como un anillo. El círculo completo representa un año, dividido en meses."),
          
          div(style = css(margin = "auto"),
-         div(style = css(min_width = "500px", margin = "auto"),
-             plotOutput("grafico_radial_total",
-                        height = 600, width = 600) |> withSpinner(),
-         )
+             div(style = css(min_width = "500px", margin = "auto"),
+                 plotOutput("grafico_radial_total",
+                            height = 600, width = 600) |> withSpinner(),
+             )
          ),
          
          em("Las líneas se sobreponen debido a que en un mismo anillo se visualizan las temperaturas de todos los años, desde el año seleccionado hasta el presente."),
@@ -190,25 +219,36 @@ ui <- page_fluid(
     
     p("Visualización de temperaturas diarias, filtrando años y meses."),
     
-    sliderInput("año_zoom",
-                label = "Año",
-                min = 2016, 
-                max = max(datos$año), 
-                value = 2023, sep = "",
-                width = "100%"),
+    div(style = css(margin = "auto"),
+        sliderInput("año_zoom",
+                    label = "Año",
+                    min = 2016, 
+                    max = max(datos$año), 
+                    value = 2023, sep = "",
+                    width = "600px")
+    ),
     
     layout_columns(
       col_widths = c(5, 7),
+      
       card(full_screen = TRUE,
+           card_header(
+             h4("Temperaturas diarias, anuales")
+           ),
            
            div(style = css(margin = "auto"),
                div(style = css(min_width = "500px", margin = "auto"),
-               plotOutput("grafico_radial_año", height = 600, width = 600) |> withSpinner()
+                   plotOutput("grafico_radial_año", height = 600, width = 600) |> withSpinner()
                )
            )
       ),
       
       card(full_screen = TRUE,
+           
+           card_header(
+             h4("Temperaturas diarias, por meses")
+           ),
+           
            sliderInput("mes_zoom",
                        label = "Meses",
                        min = 1, max = 12,
@@ -475,7 +515,7 @@ server <- function(input, output) {
             # panel.grid.major.y = element_line(color = "red"),
             legend.title = element_text(face = "italic", color = color$detalle, size = 9),
             legend.text = element_text(color = color$detalle, margin = margin(l = 2, r = 4)),
-            axis.text.y = element_text(colour = color$detalle,
+            axis.text.y = element_text(colour = color$texto,
                                        hjust = 1, size = 8, 
                                        margin = margin(r = 2)))
   }, res = resolucion, bg = color$fondo)
