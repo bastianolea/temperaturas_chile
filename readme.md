@@ -13,7 +13,7 @@ Este repositorio obtiene datos desde el [Portal de Datos Abiertos del Estado de 
 
 [Accede al visualizador de datos por este enlace.](https://bastianoleah.shinyapps.io/temperaturas_chile/)
 
-El producto principal de este código es una base de datos de temperaturas extremas en Chile, por estación meteorológica y por día, desde 1970 a 2024 [disponible convenientemente en un solo archivo `.parquet`](https://github.com/bastianolea/temperaturas_chile/raw/main/temperaturas_chile/temperaturas.parquet) (también disponible [en `.rds`](https://github.com/bastianolea/temperaturas_chile/raw/main/datos/procesados/temperaturas_chile_unificadas.rds) y [en formato `.csv`](https://github.com/bastianolea/temperaturas_chile/raw/main/datos/procesados/temperaturas_chile_unificadas.csv))
+El producto principal de este código es una base de datos de temperaturas extremas en Chile, por estación meteorológica y por día, desde 1970 a 2024 [disponible convenientemente en un solo archivo `.parquet`](https://github.com/bastianolea/temperaturas_chile/raw/main/temperaturas_chile/temperaturas.parquet) (también disponible [en formato `.csv`](https://github.com/bastianolea/temperaturas_chile/raw/main/datos/procesados/temperaturas_chile_unificadas.csv))
 
 
 ## Obtención de los datos

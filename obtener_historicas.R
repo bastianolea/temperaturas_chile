@@ -125,8 +125,6 @@ datos_historicos_3 |>
   filter(is.na(fecha))
 
 
-
-
 # reestructurar en formato wide
 datos_historicos_4 <- datos_historicos_3 |> 
   # filter(codigo_nacional == 180005) |> 
